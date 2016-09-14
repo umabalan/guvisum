@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.*;
 public class LeapYear
 {
-public satic void main(String[] args)
+public static void main(String[] args)
 {
 Scanner sc=new Scanner(System.in);
 int year=sc.nextInt();
